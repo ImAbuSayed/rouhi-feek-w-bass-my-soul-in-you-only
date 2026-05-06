@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rouhi-feek-w-bass-my-soul-in-you-only/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Rouhi Feek W Bass – My Soul in You Only](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
