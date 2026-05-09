@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rouhi Feek W Bass – My Soul in You Only
+
+This log tracks the cryptographic history and versioning for the song **Rouhi Feek W Bass – My Soul in You Only** (rouhi-feek-w-bass-my-soul-in-you-only).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:11:45.274481 | `v1` | `f1f1dab00f67d46a478845fe92a5ccd8bf2c078070e3482be3ee835c217989be` | `6ef5528612c5c22dd393019742aed46615634497431d94078f4b83cc423951a8` | `2026-05-09_rouhi-feek-w-bass-my-soul-in-you-only-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
